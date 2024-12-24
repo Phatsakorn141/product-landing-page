@@ -11,3 +11,6 @@
 - git commit -m "เพิ่มส่วน Hero และปุ่มเรียกให้ดำเนินการ"
 - git add .\index.html
 - git commit -m "เพิ่มส่วยคุณสมบัติพร้อมการ์ด"
+- git add .
+- git commit -m "Finish"
+- git push
